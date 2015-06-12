@@ -1,0 +1,21 @@
+{
+  "name": "js-request",
+  "main": "js-request.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/gsantome/js-request",
+  "authors": [
+    "Gonzalo Santome <santomegonzalo@gmail.com>"
+  ],
+  "description": "If you are like you are trying to remove jQuery from your projects so this is your plugin. With this plugin you could execute ajax request from javascript in an easy way using ES6 promises",
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "keywords": [
+    "javascript",
+    "ajax",
+    "request",
+    "amd"
+  ],
+  "license": "MIT"
+}
